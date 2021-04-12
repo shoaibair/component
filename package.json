@@ -1,0 +1,16 @@
+{
+  "name": "@airtel/support-library",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "main": "src/index.tsx",
+  "peerDependencies": {
+    "@types/react": "*",
+    "@types/react-native": "*",
+    "react": "*",
+    "react-native": "*",
+    "native-base": "*"
+  }
+}
